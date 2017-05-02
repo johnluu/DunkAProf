@@ -1,0 +1,2 @@
+Main-Class: game.Game
+Class-Path: . game/lib/lwjgl.jar game/lib/lwjgl_util.jar game/lib/jinput.jar game/lib/slick.jar
